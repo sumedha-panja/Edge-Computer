@@ -1,9 +1,9 @@
 # Edge-Computer
 This helps in implementing a edge computing device on a Linux/Windows operated machine
 
---------------------------------------------------------
-PREREQUISITES FOR RUNNING THE SOURCE CODE FOR PROJECT-01
---------------------------------------------------------
+------------------------------------------------------------
+#PREREQUISITES FOR RUNNING THE SOURCE CODE FOR EDGE COMPUTER
+------------------------------------------------------------
 1. Install latest version of Python, Visual Studio Code and the python extension available in Visual Studio Code.
 
 2. Need to install the paho MQTT Library using the following command - pip install paho-mqtt
